@@ -1,2 +1,2 @@
 # BERT_HuggingFace
-Pretraining BERT transformer using Hugging Face
+Pretraining BERT model using Hugging Face transformer
